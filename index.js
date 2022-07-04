@@ -6,7 +6,6 @@ const comCarencia = document.querySelector ('#carencia');
 const listaSuspensa = document.querySelector ('#listaSuspensa');
 const corpoTabela = document.querySelector ('#corpoTabela');
 const botaoCalcular = document.querySelector ('#botaoCalcular');
-const botaoLimpar = document.querySelector ('#botaoLimpar');
 const textoValor = document.querySelector ('#textoValor');
 const textoEntrada = document.querySelector ('#textoEntrada');
 const taxaJuros = document.querySelector ('#taxaJuros');
